@@ -1,7 +1,6 @@
 import os.path
 
-from selene import browser, have, be
-import pytest
+from selene import browser, have
 
 
 def test_input_form():
